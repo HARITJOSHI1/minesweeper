@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Digital7-1e1Z;
+  src: url(./Digital7-1e1Z.ttf);
+}
+
+.NumberDisplay {
+  width: 30%;
+  height: 48px;
+  color: #ff0701;
+  background: black;
+  text-align: center;
+  font-size: 3rem;
+  display: flex;
+  font-family: Digital7-1e1Z;
+  justify-content: center;
+  align-items: center;
+}
